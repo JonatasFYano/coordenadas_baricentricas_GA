@@ -1,0 +1,1 @@
+/usr/bin/c++   -lGL -lGLU -lglut -lGLEW -L /usr/lib/nvidia-331/  -rdynamic CMakeFiles/ep.dir/main.cpp.o CMakeFiles/ep.dir/scrInteractor.cpp.o CMakeFiles/ep.dir/TrackBall.cpp.o  -o ep -lGL -lGLU -lglut -lXmu -lXi 

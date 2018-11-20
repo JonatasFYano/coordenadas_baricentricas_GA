@@ -1,0 +1,3 @@
+/home/jonatasyano/Documents/mvga/Jonatas Yano - 927169/CMakeFiles/rebuild_cache.dir
+/home/jonatasyano/Documents/mvga/Jonatas Yano - 927169/CMakeFiles/ep.dir
+/home/jonatasyano/Documents/mvga/Jonatas Yano - 927169/CMakeFiles/edit_cache.dir
